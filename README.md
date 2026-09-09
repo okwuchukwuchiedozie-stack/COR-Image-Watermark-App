@@ -52,7 +52,3 @@ COR-Image-Watermark-App/
 ├── README.md      # project guide
 └── outputs/       # created when the first image is saved
 ```
-
-## Ideas for the next version
-
-The watermark text, position, size, and colour are currently set in the code. Useful additions would be controls for those settings, an image/logo watermark option, and batch processing.
